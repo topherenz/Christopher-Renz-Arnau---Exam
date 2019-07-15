@@ -1,2 +1,2 @@
-# Christopher-Renz-Arnau---Exam
+# Christopher-Renz-Arnau-Exam
 MR Front-end Developer Technical Test
